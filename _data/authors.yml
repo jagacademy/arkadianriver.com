@@ -1,11 +1,19 @@
 # authors
 
-arkadianriver:
-  name: Gary Faircloth
+pphdez:
+  name: Pepe Hernández R.
   bio: >
-    Interests: tech writing, programming, science, history.
-    You might also find me playing some PC Ga&mdash;SQUIRREL!
-  disqus_shortname: arkadianriver
-  url: http://arkadianriver.com
-  email: gfair@arkadianriver.com
+    Interests: TRIZ, Kanban, Project Manaement, Futbol
+  disqus_shortname: pphdez
+  url: http://novador.blogspot.com
+  email: pphdez76@gmail.com
+  avatar: gar.png
+
+elviejo79:
+  name: Alejandro Garcia
+  bio: >
+    Interests: functional programming, modeling and simulation
+  disqus_shortname: elviejo79
+  url: http://facebook.com/elviejo79
+  email: agarciafdz@gmail.com
   avatar: gar.png
